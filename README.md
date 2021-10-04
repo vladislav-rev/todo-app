@@ -1,3 +1,5 @@
+You can see it here https://vladislav-rev.github.io/about
+
 Technology: Typescript, React(useState, useRef, useEffect, useHistory), Materialize CSS, Router.
 
 Description: Task scheduler.
