@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/authentication-app/static/css/main.5bdd6ddc.chunk.css",
+    "main.js": "/authentication-app/static/js/main.f7677d89.chunk.js",
+    "main.js.map": "/authentication-app/static/js/main.f7677d89.chunk.js.map",
+    "runtime-main.js": "/authentication-app/static/js/runtime-main.97736386.js",
+    "runtime-main.js.map": "/authentication-app/static/js/runtime-main.97736386.js.map",
+    "static/js/2.25156b6f.chunk.js": "/authentication-app/static/js/2.25156b6f.chunk.js",
+    "static/js/2.25156b6f.chunk.js.map": "/authentication-app/static/js/2.25156b6f.chunk.js.map",
+    "static/js/3.87a5ce01.chunk.js": "/authentication-app/static/js/3.87a5ce01.chunk.js",
+    "static/js/3.87a5ce01.chunk.js.map": "/authentication-app/static/js/3.87a5ce01.chunk.js.map",
+    "index.html": "/authentication-app/index.html",
+    "static/css/main.5bdd6ddc.chunk.css.map": "/authentication-app/static/css/main.5bdd6ddc.chunk.css.map",
+    "static/js/2.25156b6f.chunk.js.LICENSE.txt": "/authentication-app/static/js/2.25156b6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97736386.js",
+    "static/js/2.25156b6f.chunk.js",
+    "static/css/main.5bdd6ddc.chunk.css",
+    "static/js/main.f7677d89.chunk.js"
+  ]
+}
