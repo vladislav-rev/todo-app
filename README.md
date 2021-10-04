@@ -1,4 +1,4 @@
-You can see it here https://vladislav-rev.github.io/about
+You can see it here https://vladislav-rev.github.io/todo-app/
 
 Technology: Typescript, React(useState, useRef, useEffect, useHistory), Materialize CSS, Router.
 
